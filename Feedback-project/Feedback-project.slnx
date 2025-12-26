@@ -1,1 +1,19 @@
-<Solution />
+<Solution>
+  <Folder Name="/Feedback-management/" />
+  <Folder Name="/Feedback-management/FM.Application/">
+    <Project Path="FeedbackManagement.Application.Contracts/FeedbackManagement.Application.Contracts.csproj" />
+    <Project Path="FeedbackManagement.Application/FeedbackManagement.Application.csproj" />
+  </Folder>
+  <Folder Name="/Feedback-management/FM.Domain/">
+    <Project Path="FeedbackManagement.Domain/FeedbackManagement.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Feedback-management/FM.Infrastructure/">
+    <Project Path="FeedbackManagement.Configuration/FeedbackManagement.Configuration.csproj" />
+    <Project Path="FeedbackMangement.Infrastructure.EFCore/FeedbackMangement.Infrastructure.EFCore.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="01_FeedbackQuery/01_FeedbackQuery.csproj" />
+  <Project Path="0_FrameWork/0_FrameWork.csproj" />
+</Solution>
