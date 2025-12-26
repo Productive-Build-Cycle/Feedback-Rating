@@ -1,5 +1,34 @@
-.vs/
+﻿# Build Folders
 bin/
 obj/
+
+# Visual Studio
+.vs/
 *.user
 *.suo
+*.VC.db
+
+# Rider / JetBrains
+.idea/
+
+# ASP.NET Core / Web
+wwwroot/lib/
+wwwroot/**/*.map
+
+# EF Core Migrations
+# فولدر Migrations را نگه داریم
+ Migrations/
+
+# User-specific
+*.local
+*.env
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish output
+publish/
