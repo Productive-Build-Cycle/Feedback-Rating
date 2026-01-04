@@ -1,4 +1,5 @@
 ﻿using FeedbackManagement.Domain.FeedbackAgg;
+using FeedbackManagement.Domain.RatingAgg;
 using FeedbackMangement.Infrastructure.EFCore.Mappings;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -14,6 +15,7 @@ namespace FeedbackMangement.Infrastructure.EFCore
     {
      
         public DbSet<Feedback> Feedbacks { get; set; }
+        public DbSet<Rating> ratings { get; set; }
         public FeedbackContext(DbContextOptions<FeedbackContext> options) : base(options)
         {
         }

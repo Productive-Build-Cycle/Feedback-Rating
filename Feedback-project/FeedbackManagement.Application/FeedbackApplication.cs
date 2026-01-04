@@ -9,7 +9,7 @@ using System.Text;
 
 namespace FeedbackManagement.Application
 {
-    public class FeedbackApplication
+    public class FeedbackApplication : IFeedbackApplication
     {
         private readonly IFeedbackRepository _feedbackRepository;
 
@@ -19,13 +19,15 @@ namespace FeedbackManagement.Application
         }
 
 
+
+        //registration new feedback
         public OperationResult Create(CreateFeedback command)
         {
             var result = new OperationResult();
             var targetType = (RateTargetType)command.RateTargetType;
 
             if (_feedbackRepository.ExistsForUser(command.TargetId, targetType, command.UserId))
-                return result.Failed("User already submitted feedback.");
+                return result.Failed(ApplicationMessages.Submitted);
 
             try
             {
@@ -40,6 +42,8 @@ namespace FeedbackManagement.Application
             }
         }
 
+
+        //recieve feedback base on Id
         public FeedbackViewModel Get(long id)
         {
             var f = _feedbackRepository.Get(id);
@@ -48,12 +52,15 @@ namespace FeedbackManagement.Application
             return new FeedbackViewModel(f.Id, f.TargetId, (int)f.TargetType, f.UserId, f.Comment, f.CreatedAt);
         }
 
+        //collect all feedback for a task 
         public List<FeedbackViewModel> GetByTarget(long targetId, int rateTargetType)
         {
             var list = _feedbackRepository.GetByTarget(targetId, (RateTargetType)rateTargetType);
             return list.Select(f => new FeedbackViewModel(f.Id, f.TargetId, (int)f.TargetType, f.UserId, f.Comment, f.CreatedAt)).ToList();
         }
 
+
+        //collect all registered feedback in system
         public List<FeedbackViewModel> GetAll()
         {
             var all = _feedbackRepository.Get();

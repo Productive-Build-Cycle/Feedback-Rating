@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FeedbackManagement.Application.Contracts\FeedbackManagement.Application.Contracts.csproj" />
+    <ProjectReference Include="..\FeedbackManagement.Application\FeedbackManagement.Application.csproj" />
+    <ProjectReference Include="..\FeedbackMangement.Infrastructure.EFCore\FeedbackMangement.Infrastructure.EFCore.csproj" />
+  </ItemGroup>
+
 </Project>
