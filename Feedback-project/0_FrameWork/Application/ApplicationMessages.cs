@@ -4,6 +4,6 @@
     {
         public const string Submitted = "User already submitted feedback.";
         public const string LongCommnet = "Feedback comment is too long. ";
-        public const string shortCommnet = "Its too short";
+        public const string Limit = "User already rated this target.";
      }
 }

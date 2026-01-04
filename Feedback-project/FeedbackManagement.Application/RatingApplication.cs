@@ -24,7 +24,7 @@ namespace FeedbackManagement.Application
             var targetType = (RateTargetType)command.RateTargetType;
 
             if (_repository.ExistsForUser(command.TargetId, targetType, command.UserId))
-                return result.Failed("User already rated this target.");
+                return result.Failed(ApplicationMessages.Limit);
 
             try
             {
