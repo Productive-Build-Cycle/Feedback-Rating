@@ -14,7 +14,6 @@
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
-  <Project Path="01_FeedbackQuery/01_FeedbackQuery.csproj" />
   <Project Path="0_FrameWork/0_FrameWork.csproj" />
   <Project Path="FeedbackRating.Api/FeedbackRating.Api.csproj" />
 </Solution>
