@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FeedbackManagement.Domain.FeedbackAgg;
 
-public class IFeedbackRepository
+public interface IFeedbackRepository
 {
 
 }
