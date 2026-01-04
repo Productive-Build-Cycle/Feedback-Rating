@@ -6,7 +6,7 @@ namespace FeedbackRating.Api.Controllers
 
 
 
-    [Route("[controller]/[action]")]
+    [Route("[controller]")]
     public class RatingController : Controller
     {
         private readonly IRatingApplication _ratingApplication;
