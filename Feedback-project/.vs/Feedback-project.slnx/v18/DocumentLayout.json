@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\feedbackagg\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\feedbackagg\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.application.contracts\\ratings\\ratingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|solutionrelative:feedbackmanagement.application.contracts\\ratings\\ratingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\ratingagg\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\ratingagg\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.application.contracts\\ratings\\averagescoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|solutionrelative:feedbackmanagement.application.contracts\\ratings\\averagescoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.application.contracts\\ratings\\registerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|solutionrelative:feedbackmanagement.application.contracts\\ratings\\registerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.application.contracts\\feedbacks\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|solutionrelative:feedbackmanagement.application.contracts\\feedbacks\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.application.contracts\\feedbacks\\createfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF718AA-34C7-7ECC-451A-04A6C3E52A20}|FeedbackManagement.Application.Contracts\\FeedbackManagement.Application.Contracts.csproj|solutionrelative:feedbackmanagement.application.contracts\\feedbacks\\createfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\application\\applicationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\application\\applicationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\application\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\application\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\domain\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\domain\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6654F7C-C608-45B8-16CD-364F81662CCE}|FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.configuration\\feedbackmanagement.configuration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6654F7C-C608-45B8-16CD-364F81662CCE}|FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj|solutionrelative:feedbackmanagement.configuration\\feedbackmanagement.configuration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3348D4-8A90-2243-9646-0FE19FD8BD0A}|FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmangement.infrastructure.efcore\\feedbackmangement.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD3348D4-8A90-2243-9646-0FE19FD8BD0A}|FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj|solutionrelative:feedbackmangement.infrastructure.efcore\\feedbackmangement.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\feedbackagg\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\feedbackagg\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\feedbackagg\\feedbackrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\feedbackagg\\feedbackrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\ratingagg\\ratingvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,36 +67,12 @@
       "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\ratingagg\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\feedbackagg\\feedbackrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\feedbackagg\\feedbackrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\feedbackagg\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\feedbackagg\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\feedbackagg\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\feedbackagg\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.domain\\enums\\ratetargettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F944D77-591A-4F50-C883-DAC7BCE25AC8}|FeedbackManagement.Domain\\FeedbackManagement.Domain.csproj|solutionrelative:feedbackmanagement.domain\\enums\\ratetargettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\domain\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\domain\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\application\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\application\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\application\\applicationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\application\\applicationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\0_framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\0_framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,176 +82,236 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IFeedbackRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\IFeedbackRepository.cs",
-              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\FeedbackAgg\\IFeedbackRepository.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\IFeedbackRepository.cs",
-              "RelativeToolTip": "FeedbackManagement.Domain\\FeedbackAgg\\IFeedbackRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T20:03:20.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IRatingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\IRatingRepository.cs",
-              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\RatingAgg\\IRatingRepository.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\IRatingRepository.cs",
-              "RelativeToolTip": "FeedbackManagement.Domain\\RatingAgg\\IRatingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Title": "AverageScoreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Ratings\\AverageScoreViewModel.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Application.Contracts\\Ratings\\AverageScoreViewModel.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Ratings\\AverageScoreViewModel.cs",
+              "RelativeToolTip": "FeedbackManagement.Application.Contracts\\Ratings\\AverageScoreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T20:03:02.497Z",
+              "WhenOpened": "2026-01-04T09:32:59.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RatingRules.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\RatingRules.cs",
-              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\RatingAgg\\RatingRules.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\RatingRules.cs",
-              "RelativeToolTip": "FeedbackManagement.Domain\\RatingAgg\\RatingRules.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABHAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RatingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Ratings\\RatingViewModel.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Application.Contracts\\Ratings\\RatingViewModel.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Ratings\\RatingViewModel.cs",
+              "RelativeToolTip": "FeedbackManagement.Application.Contracts\\Ratings\\RatingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:28:27.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Rating.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\Rating.cs",
-              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\RatingAgg\\Rating.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\Rating.cs",
-              "RelativeToolTip": "FeedbackManagement.Domain\\RatingAgg\\Rating.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:28:08.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\Feedback.cs",
-              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\FeedbackAgg\\Feedback.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\Feedback.cs",
-              "RelativeToolTip": "FeedbackManagement.Domain\\FeedbackAgg\\Feedback.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:29:11.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FeedbackRules.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\FeedbackRules.cs",
-              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\FeedbackAgg\\FeedbackRules.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\FeedbackRules.cs",
-              "RelativeToolTip": "FeedbackManagement.Domain\\FeedbackAgg\\FeedbackRules.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:29:24.47Z",
+              "WhenOpened": "2026-01-04T09:32:44.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RatingValue.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\RatingValue.cs",
-              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\RatingAgg\\RatingValue.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\RatingValue.cs",
-              "RelativeToolTip": "FeedbackManagement.Domain\\RatingAgg\\RatingValue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Title": "RegisterRating.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Ratings\\RegisterRating.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Application.Contracts\\Ratings\\RegisterRating.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Ratings\\RegisterRating.cs",
+              "RelativeToolTip": "FeedbackManagement.Application.Contracts\\Ratings\\RegisterRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:28:17.96Z",
+              "WhenOpened": "2026-01-04T09:32:25.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RateTargetType.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\Enums\\RateTargetType.cs",
-              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\Enums\\RateTargetType.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\Enums\\RateTargetType.cs",
-              "RelativeToolTip": "FeedbackManagement.Domain\\Enums\\RateTargetType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FeedbackViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Feedbacks\\FeedbackViewModel.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Application.Contracts\\Feedbacks\\FeedbackViewModel.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Feedbacks\\FeedbackViewModel.cs",
+              "RelativeToolTip": "FeedbackManagement.Application.Contracts\\Feedbacks\\FeedbackViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:29:54.279Z",
+              "WhenOpened": "2026-01-04T09:31:54.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DomainException.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Domain\\DomainException.cs",
-              "RelativeDocumentMoniker": "0_FrameWork\\Domain\\DomainException.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Domain\\DomainException.cs",
-              "RelativeToolTip": "0_FrameWork\\Domain\\DomainException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CreateFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Feedbacks\\CreateFeedback.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Application.Contracts\\Feedbacks\\CreateFeedback.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Feedbacks\\CreateFeedback.cs",
+              "RelativeToolTip": "FeedbackManagement.Application.Contracts\\Feedbacks\\CreateFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:30:51.083Z",
+              "WhenOpened": "2026-01-04T09:31:16.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "OperationResult.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Application\\OperationResult.cs",
               "RelativeDocumentMoniker": "0_FrameWork\\Application\\OperationResult.cs",
               "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Application\\OperationResult.cs",
               "RelativeToolTip": "0_FrameWork\\Application\\OperationResult.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAawA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:49:58.832Z",
+              "WhenOpened": "2026-01-04T09:29:38.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "ApplicationMessages.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Application\\ApplicationMessages.cs",
               "RelativeDocumentMoniker": "0_FrameWork\\Application\\ApplicationMessages.cs",
               "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Application\\ApplicationMessages.cs",
               "RelativeToolTip": "0_FrameWork\\Application\\ApplicationMessages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:43:34.641Z",
+              "WhenOpened": "2026-01-04T09:29:37.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
+              "Title": "FeedbackManagement.Configuration",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj",
+              "RelativeDocumentMoniker": "FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj",
+              "RelativeToolTip": "FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T09:29:31.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FeedbackMangement.Infrastructure.EFCore",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj",
+              "RelativeDocumentMoniker": "FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj",
+              "RelativeToolTip": "FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T09:29:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Entitybase.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Domain\\Entitybase.cs",
               "RelativeDocumentMoniker": "0_FrameWork\\Domain\\Entitybase.cs",
               "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Domain\\Entitybase.cs",
               "RelativeToolTip": "0_FrameWork\\Domain\\Entitybase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:30:23.626Z",
+              "WhenOpened": "2026-01-04T09:29:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Domain\\DomainException.cs",
+              "RelativeDocumentMoniker": "0_FrameWork\\Domain\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Domain\\DomainException.cs",
+              "RelativeToolTip": "0_FrameWork\\Domain\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:29:23.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\Feedback.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\FeedbackAgg\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\Feedback.cs",
+              "RelativeToolTip": "FeedbackManagement.Domain\\FeedbackAgg\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:50:35.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-26T12:55:33.362Z",
+              "Title": "FeedbackRules.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\FeedbackRules.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\FeedbackAgg\\FeedbackRules.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\FeedbackRules.cs",
+              "RelativeToolTip": "FeedbackManagement.Domain\\FeedbackAgg\\FeedbackRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:51:41.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RatingValue.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\RatingValue.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\RatingAgg\\RatingValue.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\RatingValue.cs",
+              "RelativeToolTip": "FeedbackManagement.Domain\\RatingAgg\\RatingValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:51:35.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RatingRules.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\RatingRules.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\RatingAgg\\RatingRules.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\RatingRules.cs",
+              "RelativeToolTip": "FeedbackManagement.Domain\\RatingAgg\\RatingRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:51:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\Rating.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\RatingAgg\\Rating.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\RatingAgg\\Rating.cs",
+              "RelativeToolTip": "FeedbackManagement.Domain\\RatingAgg\\Rating.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:51:08.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "0_FrameWork.csproj",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\0_FrameWork.csproj",
+              "RelativeDocumentMoniker": "0_FrameWork\\0_FrameWork.csproj",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\0_FrameWork.csproj",
+              "RelativeToolTip": "0_FrameWork\\0_FrameWork.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T21:48:12.284Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackManagement.Domain\\FeedbackAgg\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Domain\\FeedbackAgg\\IFeedbackRepository.cs",
+              "RelativeToolTip": "FeedbackManagement.Domain\\FeedbackAgg\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:44:05.219Z"
             }
           ]
         }
