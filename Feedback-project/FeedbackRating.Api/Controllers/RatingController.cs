@@ -23,14 +23,14 @@ namespace FeedbackRating.Api.Controllers
             return Ok(result);
         }
 
-        [HttpGet("{targetId}/{targetType}")]
+        [HttpGet("Average/{targetId}/{targetType}")]
         public IActionResult GetAverage(long targetId, int targetType)
         {
             var result = _ratingApplication.GetAverage(targetId, targetType);
             return Ok(result);
         }
 
-        [HttpGet("{targetId}/{targetType}")]
+        [HttpGet("ByTarget/{targetId}/{targetType}")]
         public IActionResult GetByTarget(long targetId, int targetType)
         {
             var list = _ratingApplication.GetByTarget(targetId, targetType);

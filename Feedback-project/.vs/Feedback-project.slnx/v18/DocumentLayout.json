@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7387D28-6E3F-CD4A-1E78-616BCBFD04EF}|FeedbackRating.Api\\FeedbackRating.Api.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackrating.api\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7387D28-6E3F-CD4A-1E78-616BCBFD04EF}|FeedbackRating.Api\\FeedbackRating.Api.csproj|solutionrelative:feedbackrating.api\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29E4AAEE-9519-74F6-0097-0954924BEFB4}|FeedbackManagement.Application\\FeedbackManagement.Application.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.application\\ratingapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E4AAEE-9519-74F6-0097-0954924BEFB4}|FeedbackManagement.Application\\FeedbackManagement.Application.csproj|solutionrelative:feedbackmanagement.application\\ratingapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\0_framework\\application\\applicationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D640F662-5968-C4D1-F115-AAC6253DC2CA}|0_FrameWork\\0_FrameWork.csproj|solutionrelative:0_framework\\application\\applicationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7387D28-6E3F-CD4A-1E78-616BCBFD04EF}|FeedbackRating.Api\\FeedbackRating.Api.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackrating.api\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7387D28-6E3F-CD4A-1E78-616BCBFD04EF}|FeedbackRating.Api\\FeedbackRating.Api.csproj|solutionrelative:feedbackrating.api\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7387D28-6E3F-CD4A-1E78-616BCBFD04EF}|FeedbackRating.Api\\FeedbackRating.Api.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackrating.api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{F7387D28-6E3F-CD4A-1E78-616BCBFD04EF}|FeedbackRating.Api\\FeedbackRating.Api.csproj|solutionrelative:feedbackrating.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackMangement.Infrastructure.EFCore\\Migrations\\20260104201858_MakeDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FeedbackMangement.Infrastructure.EFCore\\Migrations\\20260104201858_MakeDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DD3348D4-8A90-2243-9646-0FE19FD8BD0A}|FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmangement.infrastructure.efcore\\feedbackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD3348D4-8A90-2243-9646-0FE19FD8BD0A}|FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj|solutionrelative:feedbackmangement.infrastructure.efcore\\feedbackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,6 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6654F7C-C608-45B8-16CD-364F81662CCE}|FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmanagement.configuration\\feedbackmanagement.configuration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F6654F7C-C608-45B8-16CD-364F81662CCE}|FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj|solutionrelative:feedbackmanagement.configuration\\feedbackmanagement.configuration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3348D4-8A90-2243-9646-0FE19FD8BD0A}|FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj|c:\\users\\master\\desktop\\feedback-project\\feedback-project\\feedbackmangement.infrastructure.efcore\\migrations\\20260104201858_makedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3348D4-8A90-2243-9646-0FE19FD8BD0A}|FeedbackMangement.Infrastructure.EFCore\\FeedbackMangement.Infrastructure.EFCore.csproj|solutionrelative:feedbackmangement.infrastructure.efcore\\migrations\\20260104201858_makedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,19 +70,6 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationMessages.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Application\\ApplicationMessages.cs",
-              "RelativeDocumentMoniker": "0_FrameWork\\Application\\ApplicationMessages.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Application\\ApplicationMessages.cs",
-              "RelativeToolTip": "0_FrameWork\\Application\\ApplicationMessages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T21:07:19.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FeedbackController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackRating.Api\\Controllers\\FeedbackController.cs",
@@ -91,12 +78,11 @@
               "RelativeToolTip": "FeedbackRating.Api\\Controllers\\FeedbackController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T20:34:10.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T20:34:10.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "20260104201858_MakeDB.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackMangement.Infrastructure.EFCore\\Migrations\\20260104201858_MakeDB.cs",
               "RelativeDocumentMoniker": "FeedbackMangement.Infrastructure.EFCore\\Migrations\\20260104201858_MakeDB.cs",
@@ -104,34 +90,45 @@
               "RelativeToolTip": "FeedbackMangement.Infrastructure.EFCore\\Migrations\\20260104201858_MakeDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T20:18:58.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T20:18:58.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RatingApplication.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application\\RatingApplication.cs",
               "RelativeDocumentMoniker": "FeedbackManagement.Application\\RatingApplication.cs",
               "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application\\RatingApplication.cs",
               "RelativeToolTip": "FeedbackManagement.Application\\RatingApplication.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T12:12:53.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RatingController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackRating.Api\\Controllers\\RatingController.cs",
               "RelativeDocumentMoniker": "FeedbackRating.Api\\Controllers\\RatingController.cs",
               "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackRating.Api\\Controllers\\RatingController.cs",
               "RelativeToolTip": "FeedbackRating.Api\\Controllers\\RatingController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T20:52:35.562Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Application\\ApplicationMessages.cs",
+              "RelativeDocumentMoniker": "0_FrameWork\\Application\\ApplicationMessages.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\0_FrameWork\\Application\\ApplicationMessages.cs",
+              "RelativeToolTip": "0_FrameWork\\Application\\ApplicationMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:07:19.411Z"
             },
             {
               "$type": "Document",
@@ -143,8 +140,7 @@
               "RelativeToolTip": "FeedbackRating.Api\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:14:15.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:14:15.133Z"
             },
             {
               "$type": "Document",
@@ -156,8 +152,7 @@
               "RelativeToolTip": "FeedbackManagement.Application.Contracts\\Ratings\\RegisterRating.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T20:52:03.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T20:52:03.254Z"
             },
             {
               "$type": "Document",
@@ -169,8 +164,7 @@
               "RelativeToolTip": "FeedbackRating.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-04T12:06:37.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:06:37.712Z"
             },
             {
               "$type": "Document",
@@ -182,12 +176,11 @@
               "RelativeToolTip": "FeedbackManagement.Configuration\\FeedbackManagementBootstrapper.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:07:54.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:07:54.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "FeedbackContext.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackMangement.Infrastructure.EFCore\\FeedbackContext.cs",
               "RelativeDocumentMoniker": "FeedbackMangement.Infrastructure.EFCore\\FeedbackContext.cs",
@@ -195,12 +188,11 @@
               "RelativeToolTip": "FeedbackMangement.Infrastructure.EFCore\\FeedbackContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:30:50.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:30:50.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "FeedbackApplication.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application\\FeedbackApplication.cs",
               "RelativeDocumentMoniker": "FeedbackManagement.Application\\FeedbackApplication.cs",
@@ -208,12 +200,11 @@
               "RelativeToolTip": "FeedbackManagement.Application\\FeedbackApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:11:57.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:11:57.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "FeedbackRating.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackRating.Api\\FeedbackRating.Api.csproj",
               "RelativeDocumentMoniker": "FeedbackRating.Api\\FeedbackRating.Api.csproj",
@@ -221,12 +212,11 @@
               "RelativeToolTip": "FeedbackRating.Api\\FeedbackRating.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-04T12:33:26.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:33:26.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "IFeedbackApplication.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Application.Contracts\\Feedbacks\\IFeedbackApplication.cs",
               "RelativeDocumentMoniker": "FeedbackManagement.Application.Contracts\\Feedbacks\\IFeedbackApplication.cs",
@@ -234,12 +224,11 @@
               "RelativeToolTip": "FeedbackManagement.Application.Contracts\\Feedbacks\\IFeedbackApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:12:49.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:12:49.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "FeedbackManagement.Configuration.csproj",
               "DocumentMoniker": "C:\\Users\\Master\\Desktop\\feedback-Project\\Feedback-project\\FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj",
               "RelativeDocumentMoniker": "FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj",
@@ -247,8 +236,7 @@
               "RelativeToolTip": "FeedbackManagement.Configuration\\FeedbackManagement.Configuration.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-04T12:07:25.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:07:25.949Z"
             }
           ]
         }
