@@ -64,4 +64,26 @@ The project follows **Onion Architecture** with clear separation of concerns:
 
 ## 🔗 API Endpoints
 
-### Register Rating
+## 🔗 API Endpoints
+
+### POST api/Feedback/Create
+Creates a textual feedback (comment) for a specific task or project.  
+Validates that the feedback message is not empty and prevents duplicate submissions per user.
+
+---
+
+### POST api/Rating/Register
+Registers a numeric rating for a task or project.  
+Ensures the rating value is within the allowed range (e.g. 1–5) and prevents duplicate ratings by the same user for the same target.
+
+---
+
+### GET api/Rating/GetByTarget/ByTarget/{targetId}/{targetType}
+Returns all ratings submitted for a specific task or project.  
+Used for listing or reviewing individual rating records.
+
+---
+
+### GET api/Rating/GetAverage/Average/{targetId}/{targetType}
+Calculates and returns the average rating score for a specific task or project.  
+Provides a clear numeric representation of overall user satisfaction.
