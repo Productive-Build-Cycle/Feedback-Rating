@@ -14,7 +14,7 @@ It has no commercial or personal intent.
 - Validate all inputs strictly
 - Prevent duplicate ratings per user per target
 - Calculate and return average scores
-- Follow **Clean Architecture** principles
+- Follow **Onion Architecture** principles
 - Keep the service fully independent
 
 ---
