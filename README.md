@@ -23,11 +23,22 @@ It has no commercial or personal intent.
 
 The project follows **Onion Architecture** with clear separation of concerns:
 
-- **API Layer** → `FeedbackRating.Api`
-- **Application Layer** → Use cases, DTOs, validation
-- **Domain Layer** → Business rules and entities
-- **Infrastructure Layer** → EF Core, SQL Server, repositories
-- **Framework Layer** → Shared base abstractions
+- **API Layer**  
+  Handles HTTP requests and responses  
+  (`FeedbackRating.Api`)
+
+- **Application Layer**  
+  Use cases, DTOs, validations, business workflows
+
+- **Domain Layer**  
+  Core entities and business rules (Rating, Feedback)
+
+- **Infrastructure Layer**  
+  EF Core, SQL Server, repositories, mappings
+
+- **Framework Layer**  
+  Shared base abstractions and utilities
+
 
 ---
 
