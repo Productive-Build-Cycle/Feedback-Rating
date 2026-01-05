@@ -47,8 +47,15 @@ namespace FeedbackManagement.Application
 
         public AverageScoreViewModel GetAverage(long targetId, int rateTargetType)
         {
-            var list = _repository.GetByTarget(targetId, (RateTargetType)rateTargetType);
-            if (!list.Any()) return new AverageScoreViewModel(targetId, rateTargetType, 0, 0);
+            if (!Enum.IsDefined(typeof(RateTargetType), rateTargetType))
+                throw new ArgumentException("RateTargetType نامعتبر");
+
+            var targetEnum = (RateTargetType)rateTargetType;
+
+            var list = _repository.GetByTarget(targetId, targetEnum);
+
+            if (!list.Any())
+                return new AverageScoreViewModel(targetId, rateTargetType, 0, 0);
 
             var avg = list.Average(r => r.Value.Value);
             return new AverageScoreViewModel(targetId, rateTargetType, avg, list.Count);
